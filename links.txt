@@ -1,0 +1,5 @@
+https://augury.rangle.io/pages/guides/module-list.html
+https://medium.com/@tomastrajan/why-and-how-to-lazy-load-angular-libraries-a3bf1489fe24
+https://johnpapa.net/angular-9-lazy-loading-components/
+https://pusher.com/tutorials/lazy-loading-angular-7#how-angular-handles-lazy-loading
+https://devacademy.ru/article/kak-pravilno-realizovat-lenivuyu-zagruzku-moduley-v-angular-8
